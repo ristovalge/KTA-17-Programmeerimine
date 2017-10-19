@@ -1,0 +1,6 @@
+C:\Users\opilane\Documents\KTA-17-Programmeerimine\Exercises\05-Parse-Input-Multiply-Divide\obj\Debug\05-Parse-Input-Multiply-Divide.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\KTA-17-Programmeerimine\Exercises\05-Parse-Input-Multiply-Divide\bin\Debug\05-Parse-Input-Multiply-Divide.exe.config
+C:\Users\opilane\Documents\KTA-17-Programmeerimine\Exercises\05-Parse-Input-Multiply-Divide\bin\Debug\05-Parse-Input-Multiply-Divide.exe
+C:\Users\opilane\Documents\KTA-17-Programmeerimine\Exercises\05-Parse-Input-Multiply-Divide\bin\Debug\05-Parse-Input-Multiply-Divide.pdb
+C:\Users\opilane\Documents\KTA-17-Programmeerimine\Exercises\05-Parse-Input-Multiply-Divide\obj\Debug\05-Parse-Input-Multiply-Divide.exe
+C:\Users\opilane\Documents\KTA-17-Programmeerimine\Exercises\05-Parse-Input-Multiply-Divide\obj\Debug\05-Parse-Input-Multiply-Divide.pdb
