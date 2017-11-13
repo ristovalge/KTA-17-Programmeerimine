@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6by6Multiplicationtable", "6by6Multiplicationtable\6by6Multiplicationtable.csproj", "{970C2E0E-B7AA-49C3-951C-77DCA5F3B159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "researchArray", "researchArray\researchArray.csproj", "{6DCF8928-2621-4EB2-9D86-5874126FE2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970C2E0E-B7AA-49C3-951C-77DCA5F3B159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970C2E0E-B7AA-49C3-951C-77DCA5F3B159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970C2E0E-B7AA-49C3-951C-77DCA5F3B159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970C2E0E-B7AA-49C3-951C-77DCA5F3B159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCF8928-2621-4EB2-9D86-5874126FE2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCF8928-2621-4EB2-9D86-5874126FE2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCF8928-2621-4EB2-9D86-5874126FE2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCF8928-2621-4EB2-9D86-5874126FE2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
