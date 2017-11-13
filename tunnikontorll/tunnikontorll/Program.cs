@@ -21,20 +21,27 @@ namespace tunnikontorll
             bool hind =false;
             while (!hind)
             {
-                if (summa >= 50)
+                if (summa < 49)
+                {
+                    Console.WriteLine($"Allhindlust ei saa Sinu makstav summa on {summa} ");
+                }
+
+                if (summa > 50 && summa < 250)
                 {
                     Console.Write("Tavakliendi hind on ", (ans = (summa) - ((summa * 10) / 100)));
                     Console.WriteLine(ans);
                     Console.Write("Püsikliendi hind on ", (ans = (summa) - ((summa * 20) / 100)));
                     Console.WriteLine(ans);
+                }
 
-                    break;
-                    if (summa >= 250)
-                    {
-                        Console.Write("Tavakliendi hind on ", (ans = (summa) - ((summa * 20) / 100)));
-                        Console.WriteLine(ans);
-                        Console.Write("Püsikliendi hind on ", (ans = (summa) - ((summa * 30) / 100)));
-                        Console.WriteLine(ans);
+
+                if (summa >= 250 && summa < 350)
+                {
+                    Console.Write("Tavakliendi hind on ", (ans = (summa) - ((summa * 20) / 100)));
+                    Console.WriteLine(ans);
+                    Console.Write("Püsikliendi hind on ", (ans = (summa) - ((summa * 30) / 100)));
+                    Console.WriteLine(ans);
+                }
 
                         break;
                         if (summa >= 350)
@@ -48,16 +55,18 @@ namespace tunnikontorll
                         }
                         else
                         {
-                            Console.WriteLine("eee");
+                            Console.WriteLine("Midagi läks valesti!");
                         }
-
-                    }
-                }
+               
 
             }
             Console.ReadKey();
         }
-    }
+
+            }
+            
+        }
+          
 
 
-}
+
