@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\tunnikontorll\tunnikontorll\bin\Debug\tunnikontorll.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\tunnikontorll\tunnikontorll\bin\Debug\tunnikontorll.exe
+c:\users\opilane\documents\visual studio 2017\Projects\tunnikontorll\tunnikontorll\bin\Debug\tunnikontorll.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\tunnikontorll\tunnikontorll\obj\Debug\tunnikontorll.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\tunnikontorll\tunnikontorll\obj\Debug\tunnikontorll.exe
+c:\users\opilane\documents\visual studio 2017\Projects\tunnikontorll\tunnikontorll\obj\Debug\tunnikontorll.pdb
