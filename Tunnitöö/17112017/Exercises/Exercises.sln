@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_Demo", "_01_Demo\_01_Demo.csproj", "{C9B536C7-A46D-42C3-91D2-CF3A096DB8B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuninkontroll", "..\..\..\tunnikontorll\tunnikontorll\tuninkontroll\tuninkontroll.csproj", "{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9B536C7-A46D-42C3-91D2-CF3A096DB8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9B536C7-A46D-42C3-91D2-CF3A096DB8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9B536C7-A46D-42C3-91D2-CF3A096DB8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
