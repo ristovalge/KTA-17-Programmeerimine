@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}</ProjectGuid>
+    <ProjectGuid>{D8989B43-2E0F-4C11-85DD-163AB8C28714}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>tuninkontroll</RootNamespace>
-    <AssemblyName>tuninkontroll</AssemblyName>
+    <RootNamespace>meetodid</RootNamespace>
+    <AssemblyName>meetodid</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\Tunnitöö\17112017\tunnikontorll.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

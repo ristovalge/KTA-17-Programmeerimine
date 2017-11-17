@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_Demo", "_01_Demo\_01_De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuninkontroll", "..\..\..\tunnikontorll\tunnikontorll\tuninkontroll\tuninkontroll.csproj", "{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meetodid", "meetodid\meetodid.csproj", "{D8989B43-2E0F-4C11-85DD-163AB8C28714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DFFCFAB-8042-48FE-92B5-7A84F8BD53A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8989B43-2E0F-4C11-85DD-163AB8C28714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8989B43-2E0F-4C11-85DD-163AB8C28714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8989B43-2E0F-4C11-85DD-163AB8C28714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8989B43-2E0F-4C11-85DD-163AB8C28714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
