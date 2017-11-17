@@ -18,7 +18,7 @@ namespace tuninkontroll
             Console.WriteLine("1200 Maion ST.");
             Console.WriteLine("------------------------------------------------------------");
             
-                ;
+                
             while (true)
             {
                 int summa = int.Parse(Console.ReadLine());
@@ -37,11 +37,13 @@ namespace tuninkontroll
                     break;
                 }
 
-                
-               
+
 
                 Console.WriteLine();
             }
+
+            var pros = 0.15 * kala;
+            var total = kala + pros;
 
 
 
@@ -54,8 +56,8 @@ namespace tuninkontroll
 
 
             Console.WriteLine("Subtotal: " + kala);
-            Console.WriteLine("15.00 % Gratuity: ");
-            Console.WriteLine("Total: ");
+            Console.WriteLine("15.00 % Gratuity: " + pros);
+            Console.WriteLine("Total: " +total);
             Console.WriteLine("Press any key to continue");
             Console.ReadKey();
         }
