@@ -14,9 +14,10 @@ namespace _01_Demo
             Console.WriteLine("See on väike programm mis vajab sisendit !");
             Console.ForegroundColor = ConsoleColor.Blue;
 
-            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.White;
 
             Console.WriteLine("Kodutööks valmis !!!");
+            
             Console.ReadKey();
         }
     }
