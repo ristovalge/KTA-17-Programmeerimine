@@ -1,0 +1,12 @@
+1.Arvuti suudab välja valida ports sõnade seast ühe sõna
+2. Suudab välja kuvada õige "_"märgi iga tähe asemel
+
+3. Kui kasutaja arvab ära õige tähe, siis see asendatakse õige _ kohapeal
+
+3.1 Hoitakse meeles õiget sõna
+3.2 Hoitakse meeles kõik kasutaja pooolt sisestatud tähed
+3.3 iga tähe printimise korral otsustatakse jas täht või _ (if/else kas arvatud või mitte)
+
+
+4. Kui sõna on ära arvatud siis võit!
+ 
