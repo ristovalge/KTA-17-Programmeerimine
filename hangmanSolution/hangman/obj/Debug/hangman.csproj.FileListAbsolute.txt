@@ -1,0 +1,7 @@
+C:\Users\kool\Documents\c#\tptlivr\Midagi veel\kodutööhangman\hangmanSolution\hangman\bin\Debug\hangman.exe.config
+C:\Users\kool\Documents\c#\tptlivr\Midagi veel\kodutööhangman\hangmanSolution\hangman\bin\Debug\hangman.exe
+C:\Users\kool\Documents\c#\tptlivr\Midagi veel\kodutööhangman\hangmanSolution\hangman\bin\Debug\hangman.pdb
+C:\Users\kool\Documents\c#\tptlivr\Midagi veel\kodutööhangman\hangmanSolution\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\kool\Documents\c#\tptlivr\Midagi veel\kodutööhangman\hangmanSolution\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+C:\Users\kool\Documents\c#\tptlivr\Midagi veel\kodutööhangman\hangmanSolution\hangman\obj\Debug\hangman.exe
+C:\Users\kool\Documents\c#\tptlivr\Midagi veel\kodutööhangman\hangmanSolution\hangman\obj\Debug\hangman.pdb
