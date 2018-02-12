@@ -28,9 +28,9 @@ namespace WordMixer
             foreach (String part in word)
             {
                 string str = part.Substring(1, part.Length -2);
-                char uus = part[part.Length -2];
-                char uus2 = part[1];
-                Console.Write("{0} "+ Meetod(str)+"{1}", uus, uus2);
+                char viimane = part[part.Length - 1];
+                char esimene = part[0];
+                Console.Write("{0}{1}{2} ",esimene, Meetod(str), viimane);
             }
 
 
