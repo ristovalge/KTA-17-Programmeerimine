@@ -24,7 +24,7 @@ namespace Hangman
 
             while (_keepPlaying)
             {
-                DisplayPuzzle();
+                DisplayWord();
                 PromptUser();
             }
 
@@ -115,7 +115,7 @@ namespace Hangman
             }
         }
 
-        private void DisplayPuzzle()
+        private void DisplayWord()
         {
             Console.WriteLine("\nWORD: ");
             for (int i = 0; i < _wordDisplay.Length; i++)
