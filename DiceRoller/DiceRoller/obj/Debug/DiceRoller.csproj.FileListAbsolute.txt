@@ -1,0 +1,7 @@
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csprojResolveAssemblyReference.cache
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
