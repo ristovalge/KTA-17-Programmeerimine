@@ -1,0 +1,7 @@
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\WordMixer\WordMixer\obj\Debug\WordMixer.csprojResolveAssemblyReference.cache
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\WordMixer\WordMixer\obj\Debug\WordMixer.csproj.CoreCompileInputs.cache
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\WordMixer\WordMixer\bin\Debug\WordMixer.exe.config
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\WordMixer\WordMixer\bin\Debug\WordMixer.exe
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\WordMixer\WordMixer\bin\Debug\WordMixer.pdb
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\WordMixer\WordMixer\obj\Debug\WordMixer.exe
+C:\Users\risto.valge\Documents\Visual Studio 2017\Source\WordMixer\WordMixer\obj\Debug\WordMixer.pdb
