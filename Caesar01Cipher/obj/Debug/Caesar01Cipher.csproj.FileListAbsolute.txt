@@ -1,0 +1,6 @@
+c:\Users\risto.valge\documents\visual studio 2017\Projects\restoran\Caesar01Cipher\obj\Debug\Caesar01Cipher.csprojResolveAssemblyReference.cache
+c:\Users\risto.valge\documents\visual studio 2017\Projects\restoran\Caesar01Cipher\bin\Debug\Caesar01Cipher.exe.config
+c:\Users\risto.valge\documents\visual studio 2017\Projects\restoran\Caesar01Cipher\bin\Debug\Caesar01Cipher.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\restoran\Caesar01Cipher\bin\Debug\Caesar01Cipher.pdb
+c:\Users\risto.valge\documents\visual studio 2017\Projects\restoran\Caesar01Cipher\obj\Debug\Caesar01Cipher.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\restoran\Caesar01Cipher\obj\Debug\Caesar01Cipher.pdb
