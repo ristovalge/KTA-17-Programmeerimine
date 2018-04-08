@@ -1,0 +1,7 @@
+c:\users\kool\source\repos\valmistumine_eksamix\valmistumine_eksamix\bin\Debug\valmistumine_eksamix.exe.config
+c:\users\kool\source\repos\valmistumine_eksamix\valmistumine_eksamix\bin\Debug\valmistumine_eksamix.exe
+c:\users\kool\source\repos\valmistumine_eksamix\valmistumine_eksamix\bin\Debug\valmistumine_eksamix.pdb
+c:\users\kool\source\repos\valmistumine_eksamix\valmistumine_eksamix\obj\Debug\valmistumine_eksamix.csprojResolveAssemblyReference.cache
+c:\users\kool\source\repos\valmistumine_eksamix\valmistumine_eksamix\obj\Debug\valmistumine_eksamix.csproj.CoreCompileInputs.cache
+c:\users\kool\source\repos\valmistumine_eksamix\valmistumine_eksamix\obj\Debug\valmistumine_eksamix.exe
+c:\users\kool\source\repos\valmistumine_eksamix\valmistumine_eksamix\obj\Debug\valmistumine_eksamix.pdb
