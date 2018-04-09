@@ -1,0 +1,6 @@
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\YL3\bin\Debug\YL3.exe.config
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\YL3\bin\Debug\YL3.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\YL3\bin\Debug\YL3.pdb
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\YL3\obj\Debug\YL3.csprojResolveAssemblyReference.cache
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\YL3\obj\Debug\YL3.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\YL3\obj\Debug\YL3.pdb

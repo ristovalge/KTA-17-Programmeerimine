@@ -1,0 +1,5 @@
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Ylesanne2\bin\Debug\Ylesanne2.exe.config
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Ylesanne2\bin\Debug\Ylesanne2.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Ylesanne2\bin\Debug\Ylesanne2.pdb
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Ylesanne2\obj\Debug\Ylesanne2.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Ylesanne2\obj\Debug\Ylesanne2.pdb

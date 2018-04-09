@@ -1,0 +1,6 @@
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Yl4\bin\Debug\Yl4.exe.config
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Yl4\bin\Debug\Yl4.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Yl4\bin\Debug\Yl4.pdb
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Yl4\obj\Debug\Yl4.exe
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Yl4\obj\Debug\Yl4.pdb
+c:\Users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\Yl4\obj\Debug\Yl4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\exam_yl1\bin\Debug\exam_yl1.exe.config
+c:\users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\exam_yl1\bin\Debug\exam_yl1.exe
+c:\users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\exam_yl1\bin\Debug\exam_yl1.pdb
+c:\users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\exam_yl1\obj\Debug\exam_yl1.exe
+c:\users\risto.valge\documents\visual studio 2017\Projects\exam_yl1\exam_yl1\obj\Debug\exam_yl1.pdb
