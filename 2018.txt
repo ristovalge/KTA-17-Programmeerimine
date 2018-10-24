@@ -1,0 +1,47 @@
+using System;
+namespace Punktid5{
+   class Lapp{
+
+       static int loendur=0;
+       private int toon;
+       private int pikkus;
+       private int laius;
+        public Lapp(int upikkus, int ulaius, int utoon){
+         pikkus=upikkus; laius=ulaius;
+         toon=utoon;
+       }
+       public int GetPikkus(){
+         return pikkus;
+       }
+       public int GetLaius(){
+         return laius;
+       }
+       public int GetToon(){
+         return toon;
+       }
+   }
+   class Punktiproov{
+     public static void Main(string[] arg){
+         Lapp[] lapid=new Lapp[10];
+         for(int i=0; i<lapid.Length; i++){
+            lapid[i]=new Lapp(i, i*i, (0xff<<i)&0xffffff);
+         }
+         Console.WriteLine(lapid[4].GetToon());
+            
+            for (int i = 0; i < lapid.Length; i++)
+            {
+                Console.WriteLine($" {lapid[i].GetLaius()} {lapid[i].GetPikkus()} {lapid[i].GetToon()}");
+            }
+            int yldpind=0;
+            for (int i = 0; i < lapid.Length; i++)
+            {
+                yldpind += lapid[i].GetPikkus() * lapid[i].GetLaius();
+                Console.WriteLine(yldpind);
+            }
+
+
+
+            Console.ReadKey();
+        }
+   }
+}
