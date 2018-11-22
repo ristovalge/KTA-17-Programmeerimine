@@ -1,36 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections;
-using System.Linq;
 
 class Program
 {
     static void Main()
     {
 
-        List<string> list = new List<string>();
+        List<int> list = new List<int>();
 
 
         Console.WriteLine("Sisesta nr.");
-        string input = "";
-        while (input != "0")
+        string inpute ="";
+        int input = 0;
+        while (inpute != "0")
         {
-            input = Console.ReadLine();
+             inpute = Console.ReadLine();
+            input = int.Parse(inpute);
             list.Add(input);
         }
 
 
+
         Console.WriteLine("Kuvame sisestatu tagurpidi");
-        string[] array = list.ToArray();
+        int[] array = list.ToArray();
         //for (int i = 0; i < array.Length; i++) 
 
-        list.Remove("0");
-
-
-
-
+        list.Remove(0);
         list.Reverse();
-        foreach (string stringValues in list)
+        foreach (int stringValues in list)
         {
             Console.WriteLine(stringValues);      
                                                    
